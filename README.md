@@ -56,14 +56,6 @@ DATABASES = {
     }
 }
 
-# Edit email configurations.
-# Search for email configurations
-EMAIL_USE_TLS = True
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = '<your-email>'
-EMAIL_HOST_PASSWORD = '<your-email-password>'
-EMAIL_PORT = 587
-
 # save the file
 ```
 #### 7. Run the server
@@ -86,4 +78,4 @@ Now you are good to go.
 #### Login: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 ![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Login.png)
 #### Signup: [http://127.0.0.1:8000/signup](http://127.0.0.1:8000//signup)
-![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Sign+Up.png)
+![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Sign%20Up.png)
