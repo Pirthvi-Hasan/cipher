@@ -41,7 +41,7 @@ pip install -r requirements.txt
 #### 6. Edit project settings
 ```bash
 # open settings file
-vim panorbit/settings.py
+vim cipher/settings.py
 
 # Edit Database configurations with your MySQL configurations.
 # Search for DATABASES section.
@@ -86,4 +86,4 @@ Now you are good to go.
 #### Login: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 ![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Login.png)
 #### Signup: [http://127.0.0.1:8000/signup](http://127.0.0.1:8000//signup)
-![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Sign Up.png)
+![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Sign+Up.png)
