@@ -1,7 +1,7 @@
 # cipher
 ## A Social Media Simulation implemented using Django Framework in Python and MySQL as Backend.
 
-<img alt="Cipher Login" src="./Screenhots/Dash_1.png">
+<img alt="Cipher Login" src="https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Login.png">
 
 ### Python Library Requirements:
 asgiref==3.2.10
