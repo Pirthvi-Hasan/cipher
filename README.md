@@ -38,7 +38,11 @@ cd cipher/
 pip install -r requirements.txt
 ```
 
-#### 6. Edit project settings
+#### 6. Create Database in MySQL
+```bash
+create database cipher;
+```
+#### 7. Edit project settings
 ```bash
 # open settings file
 vim cipher/settings.py
@@ -58,7 +62,7 @@ DATABASES = {
 
 # save the file
 ```
-#### 7. Run the server
+#### 8. Run the server
 ```bash
 # Make migrations
 python manage.py makemigrations
@@ -74,7 +78,7 @@ python manage.py runserver
 Try opening [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in the browser.
 Now you are good to go.
 
-### 8. URLs
+### 9. URLs
 #### Login: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 ![](https://github.com/Pirthvi-Hasan/cipher/blob/master/Screenshots/Login.png)
 #### Signup: [http://127.0.0.1:8000/signup](http://127.0.0.1:8000//signup)
